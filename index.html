@@ -11,7 +11,7 @@
       function SendTokenToUnity() {
         if (typeof mainUnityInstance !== 'undefined') {
           mainUnityInstance.SendMessage('BackendController', 'ReceiveTokenFromWeb', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIiLCJlbWFpbCI6Im1haG1vdWRAbWV0YW1pbmRzLmdyb3VwIiwiZ2l2ZW5fbmFtZSI6Ik1haG1vdWQiLCJmYW1pbHlfbmFtZSI6Ikhhc3NhbiIsImp0aSI6IjJkOGEwNjhjLTEzYzUtNGY1ZC05ZDZmLTM4ODFiOGNlY2I5YyIsIm5iZiI6MTczMjA4OTYyMCwiZXhwIjoxNzMyMTc2MDIwLCJpc3MiOiJodHRwczovL21tLWRldi11a3MtcGxhdGZvcm0tYmFja2VuZC1hcHAuYXp1cmV3ZWJzaXRlcy5uZXQiLCJhdWQiOiJtbS1kZXYtdWtzLXBsYXRmb3JtLWJhY2tlbmQtYXBwLmF6dXJld2Vic2l0ZXMubmV0In0.Wd5b6mu2UnLRRJMia9bI7Ax0Cl2hZyuDMEX0I1DcpSA');
-          mainUnityInstance.SendMessage('BackendController', 'ReceiveAssetIdFromWeb', 'tshirt1');
+          mainUnityInstance.SendMessage('BackendController', 'ReceiveAssetIdFromWeb', '5a4958e9-fa7f-4492-8465-88ae7900c625');
         } else {
           console.log('Unity instance is not loaded yet.');
         }
