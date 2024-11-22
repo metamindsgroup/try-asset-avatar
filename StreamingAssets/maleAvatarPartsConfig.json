@@ -1,0 +1,128 @@
+{
+  "AvatarParts": [
+  {
+      "Name": "Head",
+      "assetDetails":[
+        {
+        "assetUrl":"",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Faces/MT_MaleHeadDiamond.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Eyes",
+      "assetDetails":[
+        {
+        "assetUrl":"",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Eyes/MT_MaleEyesMonolid.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Lips",
+      "assetDetails":[
+        {
+        "assetUrl":"",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Lips/MT_MaleLipsSmear.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Nose",
+      "assetDetails":[
+        {
+        "assetUrl":"",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Noses/MT_MaleNoseNubian.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Body",
+      "assetDetails":[
+        {
+        "assetUrl":"",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Bodies/MT_MaleBodyOverweight.png",
+        "assetID":"",
+        "assetOwned":true
+      },{
+        "assetUrl":"",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Bodies/MT_MaleBodyTriangle.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "TopsSlot",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Tops/Long%20Sleeve/SK_BlazerM.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Tops/Long%20Sleeve/SK_BlazerM.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Eyebrows",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Eyebrows/SK_AvatarMaleEyebrowsAsian.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Body/Male%20Eyebrows/SK_AvatarMaleEyebrowsAsian.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "BottomsSlot",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Bottoms/Pants/SK_CargoPantsM.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Bottoms/Pants/SK_CargoPantsM.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Feet",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Footwear/SK_RunningShoesM.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Footwear/SK_RunningShoesM.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Headwear",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Hairstyles/SK_MaleHairstyleBun.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Hairstyles/SK_MaleHairstyleBun.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Neckwear",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_PearlNecklaceM.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_PearlNecklaceM.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Wristwear",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_BraceletM.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/SK_BraceletM.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]},{
+      "Name": "Eyewear",
+      "assetDetails":[
+        {
+        "assetUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/Glasses/SK_RoundGlassesM.glb",
+        "imageUrl":"https://raw.githubusercontent.com/metamindsgroup/test-glb/main/Male/Accessories/Glasses/SK_RoundGlassesM.png",
+        "assetID":"",
+        "assetOwned":true
+      }
+      ]}
+    
+  ]
+}
